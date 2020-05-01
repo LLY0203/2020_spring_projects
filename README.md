@@ -15,7 +15,7 @@ For example, in our code, the transparent water tower with the height of 4 is re
 * The water tower will only appear once in each row and column.
 
 ## Team Members:
-Yueran Zeng （generating pemutations part）, Linyao Li (checking part)
+Yueran Zeng（generating pemutations part）, Linyao Li (checking part)
 
 ## Reference
 https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html
